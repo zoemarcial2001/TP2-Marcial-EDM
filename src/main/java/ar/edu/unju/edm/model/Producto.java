@@ -32,11 +32,11 @@ public class Producto {
 		this.codProducto = codProducto;
 	}
 
-	public String getNombre() {
+	public String getNombre() {     //recibe
 		return nombre;
 	}
 
-	public void setNombre(String nombre) {
+	public void setNombre(String nombre) {   //asigna
 		this.nombre = nombre;
 	}
 
